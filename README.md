@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @BeomUngJeong
-- 👀 I’m interested in DeepLearning!!
+# Hi, I’m BeomUngJeong
+# I’m interested in DeepLearning!!
